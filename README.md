@@ -1,6 +1,4 @@
 # game-04
 Git-Tac-Toe Game 04
-| | | |3
-| | O| |2
-| | | |1
-1 2 3
+Part 1 HW 1 for SOS Spring
+Editing SC‐Homework‐01
